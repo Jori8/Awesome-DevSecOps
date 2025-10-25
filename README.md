@@ -11,8 +11,8 @@ This repository chronicles my hands-on learning and resources as I embark on the
 
 This repository will evolve as I progress through the program. Planned sections:
 
-- [ ] **Cloud Computing and DevOps Fundamentals:** <br />Concepts of virtualization, public/private/hybrid clouds, and cloud service models. Principles of DevOps, CI/CD, automation, and collaboration practices.
-- [ ] **Microsoft Azure Basics:** <br />Introduction to Azure services, resource management, and cloud deployment.
+- [x] **Cloud Computing and DevOps Fundamentals:** <br />Concepts of virtualization, public/private/hybrid clouds, and cloud service models. Principles of DevOps, CI/CD, automation, and collaboration practices.
+- [x] **Microsoft Azure Basics:** <br />Introduction to Azure services, resource management, and cloud deployment.
 - [ ] **Azure DevOps Tools:** <br />Pipelines, repositories, boards, and test plans.
 - [ ] **Infrastructure as Code:** <br />Automation with tools like ARM, Bicep, Terraform, and Ansible.
 - [ ] **Microservices and Containerization:** <br />Microservices architecture, Docker, Kubernetes, and best practices for container management.
