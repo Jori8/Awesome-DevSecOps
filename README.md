@@ -7,7 +7,7 @@ This repository chronicles my hands-on learning and resources as I embark on the
 
 ---
 
-## 圜 Repository Roadmap
+## Repository Roadmap
 
 This repository will evolve as I progress through the program. Planned sections:
 
@@ -30,9 +30,9 @@ This roadmap will be updated as the studies progress, reflecting new skills, too
 
 ---
 
-## 答 Resources & References
+## Resources & References
 
-### 倹 Study Block 1: Cloud & DevOps Fundamentals and Microsoft Azure Basics
+### Study Block 1: Cloud & DevOps Fundamentals and Microsoft Azure Basics
 - [Microsoft Azure Documentation](https://docs.microsoft.com/azure/)
 - [Git 101 materials](https://github.com/Jori8/Awesome-DevSecOps/blob/dev/GIT101.md)
 - [Terraform Azure Tutorial](https://developer.hashicorp.com/terraform/tutorials/azure-get-started)
