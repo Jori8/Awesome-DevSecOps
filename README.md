@@ -15,7 +15,7 @@ This repository will evolve as I progress through the program. Planned sections:
 - [x] **Microsoft Azure Basics:** <br />Introduction to Azure services, resource management, and cloud deployment.
 - [ ] **Azure DevOps Tools:** <br />Pipelines, repositories, boards, and test plans.
 - [x] **Infrastructure as Code:** <br />Automation with tools like ARM, Bicep, Terraform, and Ansible.
-- [x] **Microservices and Containerization:** <br />Microservices architecture, Docker, Kubernetes, and best practices for container management.
+- [x] **Microservices and Containerisation:** <br />Microservices architecture, Docker, Kubernetes, and best practices for container management.
 - [ ] **Dependency management:** <br />Best practises for dependency management, software versioning.
 - [ ] **Cloud Monitoring & Logging:** <br />Tools and strategies for monitoring applications and infrastructure in the cloud.
 - [ ] **Continuous Integration (CI):** <br />Version control systems, branching strategies, CI tools, and code analysis for correctness and security.
@@ -35,4 +35,8 @@ This roadmap will be updated as the studies progress, reflecting new skills, too
 ### Study Block 1: Cloud & DevOps Fundamentals and Microsoft Azure Basics
 - [Microsoft Azure Documentation](https://docs.microsoft.com/azure/)
 - [Git 101 materials](https://github.com/Jori8/Awesome-DevSecOps/blob/dev/GIT101.md)
+- [Azure CLI basics](https://learn.microsoft.com/en-us/cli/azure/get-started-tutorial-0-before-you-begin?view=azure-cli-latest)
 - [Terraform Azure Tutorial](https://developer.hashicorp.com/terraform/tutorials/azure-get-started)
+
+### Study Block 2: Microservices and Containerisation
+- [Docker technical deep diving](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
